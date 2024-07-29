@@ -1,6 +1,6 @@
 # Every ResNet in TensorFlow 2
 
-This repository contains implementations of every ResNet model descibed in the [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) paper by Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun (2015). The models are implemented in the [`resnets.py`](./resnets.py) file. The only requirement is TensorFlow 2 or higher (tested with TensorFlow 2.11.0).
+This repository contains implementations of every ResNet model descibed in the [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) paper by Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun (2015). The models are implemented in the [`resnets.py`](./resnets.py) file. The only requirement is TensorFlow 2 or higher (tested with TensorFlow 2.17.0).
 
 The implemented models are:
 
